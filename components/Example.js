@@ -3,9 +3,9 @@ const { Text, Newline } = require('ink');
 
 const Example = () => (
 	<Text>
-		<Text color="green">component werkt</Text>
+		<Text color="green">Node Modules</Text>
 		<Newline />
-		<Text color="red">Proficiat!</Text>
+		<Text color="red">Deleted</Text>
 	</Text>
 );
 
